@@ -1,0 +1,12 @@
+#node modules
+node_modules
+
+#logs
+log/
+*.log
+
+#public
+public/*
+
+#env
+.env
